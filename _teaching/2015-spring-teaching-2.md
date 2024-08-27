@@ -2,7 +2,7 @@
 title: "DSC 180AB: "
 collection: teaching
 type: "Workshop"
-permalink: /teaching/dsc180ab
+permalink: /teaching/2015-spring-teaching-2
 venue: "UCSD, HDSI"
 date: 2023-09-025
 location: "San Diego, CA"

@@ -2,7 +2,7 @@
 title: "DSC 102: Systems for Scalable Analytics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/dsc102
+permalink: /teaching/2015-spring-teaching-1
 venue: "UCSD, HDSI"
 date: 2022-09-19
 location: "San Diego, CA"
