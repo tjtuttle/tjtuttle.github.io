@@ -1,8 +1,8 @@
 ---
-title: "DSC 180AB: "
+title: "DSC 180AB: Data Science Capstone"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-2
+type: "Undergraduate course"
+permalink: /teaching/dsc180ab
 venue: "UCSD, HDSI"
 date: 2023-09-25
 location: "San Diego, CA"
