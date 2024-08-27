@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 2'
-date: 2013-08-14
-permalink: /posts/2013/08/blog-post-2/
+title: 'Deploying ML Isn't Always Easy'
+date: 2024-02-14
+permalink: /posts/deploying/
 tags:
   - cool posts
   - category1
