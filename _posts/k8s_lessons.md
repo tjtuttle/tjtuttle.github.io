@@ -1,6 +1,6 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
+title: 'Lessons from K8s and beyond'
+date: 2022-12-21
 permalink: /posts/2012/08/blog-post-1/
 tags:
   - cool posts
