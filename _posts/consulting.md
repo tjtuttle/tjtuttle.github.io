@@ -1,7 +1,7 @@
 ---
 title: 'Deploying ML Isn't Always Easy'
 date: 2024-02-14
-permalink: /posts/deploying/
+permalink: /posts/2024/02/deploying
 tags:
   - cool posts
   - category1

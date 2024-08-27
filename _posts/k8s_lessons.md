@@ -1,7 +1,7 @@
 ---
 title: 'Lessons from K8s and beyond'
 date: 2022-12-21
-permalink: /posts/k8s_lessons/
+permalink: /posts/2022/12/k8s_lessons
 tags:
   - cool posts
   - category1
